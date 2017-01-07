@@ -4,10 +4,13 @@
 /AreYouHappy.class
 /BirthdayReminder.class
 /ChangeCalculator.class
+/ChristmasTree.class
+/CrazyCatLady.class
 /DizzyTortoise.class
 /HighLowGame.class
 /IKnowWhatYouDid.class
 /NasaCountdown.class
+/ObediantTortoise.class
 /RobotSquare.class
 /SafeCracker.class
 /ShowOptionDialog.class
@@ -17,6 +20,5 @@
 /TortoiseColorChooser.class
 /XGeeks.class
 /YearsAlive.class
-/ChristmasTree.class
-/CrazyCatLady.class
-/ObediantTortoise.class
+/Validation.class
+/BananaQuiz.class

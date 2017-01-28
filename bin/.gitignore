@@ -10,6 +10,7 @@
 /DizzyTortoise.class
 /HighLowGame.class
 /IKnowWhatYouDid.class
+/Lottery.class
 /NasaCountdown.class
 /ObediantTortoise.class
 /RobotSquare.class
@@ -19,9 +20,10 @@
 /SpudCounter.class
 /StarShow.class
 /TortoiseColorChooser.class
+/TortoiseWalkOfFame.class
 /Validation.class
+/VotingBooth.class
 /XGeeks.class
 /YearsAlive.class
-/Lottery.class
-/VotingBooth.class
-/TortoiseWalkOfFame.class
+/DoYouLikePizza.class
+/ForLoopGauntlet.class
